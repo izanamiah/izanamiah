@@ -1,4 +1,4 @@
-[![Jeremiah's GitHub Banner](./banner.png)](https://jeremiahliu.com)
+[![Jeremiah's GitHub Banner](./banner-slim.png)](https://jeremiahliu.com)
 
 <!--
 **izanamiah/izanamiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
