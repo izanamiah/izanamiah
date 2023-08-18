@@ -1,7 +1,7 @@
 [![Jeremiah's GitHub Banner](./banner-slim.png)](https://jeremiahliu.com)
 
 
-I'm a software engineer with the following interests;
+I'm a software engineer with the following interests:
 - Modern artificial intelligence, exploits computation and data as a lens to explore machine intelligence.
 - Full-stack software development as a way of packaging intelligence to deliver service and experience as value created for end users.
 
