@@ -5,7 +5,7 @@ I'm a software engineer with the following interests;
 - Modern artificial intelligence, exploits computation and data as a lens to explore machine intelligence.
 - Full-stack software development as a way of packaging intelligence to deliver service and experience as value created for end users.
 
-My past experience involving:
+My past experiences involving:
 - Theoretical foundation of Statistics, Probability and Optimization from graduate study in Operations Research & Financial Engineering at Princeton University
 - Practical hands-on in mechanics and manufacturing from undergraduate study in Industrial Engineering at New Jersey Institute of Technology
 
